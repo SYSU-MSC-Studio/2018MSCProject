@@ -48,7 +48,7 @@
    > `group by` 分组  
    > `join` 联表查询  
    > 外键
-   > unique，nullable，default value 等
+   > unique，nullable，default value 等  
    > 行锁/表锁机制  
    > 并发支持  
    > 以上没有提到的你想到的功能都可以尝试实现
