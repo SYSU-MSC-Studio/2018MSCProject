@@ -14,7 +14,7 @@
 进度汇报中需要提及完成了什么以及遇到了什么问题。将进度汇报/schedule 使用 markdown 文档编写，存放于你的项目目录中即可。
 
 ## Agenda
-- [ ] 2018/12/7：完成分组和初步 schedule 制定。
+- [x] 2018/12/7：完成分组和初步 schedule 制定。
 - [ ] 2018/12/9：各组建立好相关仓库（在 [SYSU MSC Studio Organization](https://github.com/SYSU-MSC-Studio) 中），开始项目。
 - [ ] 2018/12/16 - 2019/1/19：考试月，不进行进度跟踪，请根据自身情况完成项目。
 ---
