@@ -15,7 +15,7 @@
 
 ## Agenda
 - [x] 2018/12/7：完成分组和初步 schedule 制定。
-- [ ] 2018/12/9：各组建立好相关仓库（在 [SYSU MSC Studio Organization](https://github.com/SYSU-MSC-Studio) 中），开始项目。
+- [x] 2018/12/9：各组建立好相关仓库（在 [SYSU MSC Studio Organization](https://github.com/SYSU-MSC-Studio) 中），开始项目。
 - [ ] 2018/12/16 - 2019/1/19：考试月，不进行进度跟踪，请根据自身情况完成项目。
 ---
 - [ ] 2019/1/20：schedule 制定 1
