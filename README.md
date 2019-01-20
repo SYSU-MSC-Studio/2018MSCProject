@@ -3,7 +3,7 @@
 ## 项目安排
 项目分三个方向：  
 [Project A](https://github.com/SYSU-MSC-Studio/MSCProject/blob/master/Project%20A.md). 存储和网络方向，与流媒体的网络传输以及音视频编码解码有关  
-[Project B](https://github.com/SYSU-MSC-Studio/MSCProject/blob/master/Project%20B.md). 编译原理方向，与 SQL 语句的解析执行和文件数据库引擎的设计有关  
+[Project B](https://github.com/SYSU-MSC-Studio/MSCProject/blob/master/Project%20B.md). 编译原理方向，与语言设计和语句的解析执行和文件数据库引擎的设计有关  
 [Project C](https://github.com/SYSU-MSC-Studio/MSCProject/blob/master/Project%20C.md). 人工智能方向，与根据音乐对视频进行加工润色有关  
 
 自大家自行认领自己的项目，祝各位玩的开心
